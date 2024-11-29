@@ -1,2 +1,2 @@
 # INR-Converter
-n INR converter is a tool or software used to convert amounts from one currency to the Indian Rupee (INR), which is the official currency of India. These converters help in calculating how much one currency is worth in terms of INR, or vice versa, based on real-time exchange rates.
+ INR converter is a tool or software used to convert amounts from one currency to the Indian Rupee (INR), which is the official currency of India. These converters help in calculating how much one currency is worth in terms of INR.
